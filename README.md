@@ -6,4 +6,10 @@ File `domains` downloaded from https://trustpositif.kominfo.go.id/ Thu May  3 15
 
 <img src="trustpositif.kominfo.go.id.png">
 
+
+They also included IP address, complete URL with subdirectory etc :(
+
+Amuse yourself
+
 /lmao
+
