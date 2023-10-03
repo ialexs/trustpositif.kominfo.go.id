@@ -1,5 +1,12 @@
 # Trustpositif+ domain list
 
+## 2023
+
+Revisit wkwk..
+
+All sauce: https://trustpositif.kominfo.go.id/assets/db/domains
+
+## basian 2018
 
 File `domains` downloaded from https://trustpositif.kominfo.go.id/ Thu May  3 15:22:35 WIB 2018
 
